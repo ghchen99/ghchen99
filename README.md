@@ -6,7 +6,7 @@
 ### <div align="center">I'm George – AI Engineer & Cloud Solutions Architect ☁️ </div>  
   
 
-- 🔭 I’m currently working on building [Kitchen Copilot](https://github.com/KitchenCopilot-AI-Generator/kitchen-copilot), an intelligent assistant that analyses images of your fridge to detect ingredients and generate personalised recipe suggestions.
+- 🔭 I’m currently building [Kitchen Copilot](https://github.com/KitchenCopilot-AI-Generator/kitchen-copilot), check it out!
   
 
 - 🌱 I’m educating myself on enterprise scalable Azure infrastructure and Software Engineering best practices.
