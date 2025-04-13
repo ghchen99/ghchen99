@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm George – AI Engineer & Software Developer ☁️ </div>  
+### <div align="center">I'm George, an AI Engineer & Software Developer ☁️ </div>  
   
 
 - 🔭 I’m currently building [Kitchen Copilot](https://github.com/KitchenCopilot-AI-Generator/kitchen-copilot), check it out!
