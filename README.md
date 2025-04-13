@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm George — AI Engineer & Software Developer ☁️ </div>  
+### <div align="center">Hi, I'm George — AI Engineer & Software Developer ☁️ </div>  
   
 
 - 🔭 I’m currently building [Kitchen Copilot](https://github.com/KitchenCopilot-AI-Generator/kitchen-copilot), check it out!
   
 
-- 🌱 I’m educating myself on scalable Azure infrastructure and Software Engineering best practice 
+- 🌱 Expanding my expertise in scalable Azure infrastructure and software engineering best practices
   
 
-- ❓ Ask me about anything about AI, Software Engineering, and Cloud Development!
+- ❓ Open to discussions on AI development, cloud architecture, and software design principles
   
 
 - ⚡ Fun fact: I use tabs over spaces.  
