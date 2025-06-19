@@ -9,10 +9,10 @@
 - 🔭 Currently building [Kitchen Copilot](https://github.com/KitchenCopilot-AI-Generator/kitchen-copilot-backend), check it out!
   
 
-- 🌱 Expanding my expertise in scalable Azure infrastructure and software engineering best practices
+- 🌱 Expanding my expertise in scalable AI applications and software engineering best practices
   
 
-- ❓ Open to discussions on AI development, cloud architecture, and software design principles
+- ❓ Open to discussions on AI/ML engineering, cloud architecture, and software design principles
   
 
 - ⚡ Fun fact: I use tabs over spaces.  
