@@ -6,7 +6,7 @@
 ### <div align="center">I'm George — AI Engineer & Software Developer ☁️ </div>  
   
 
-- 🔭 Currently developing [Agentic AI for Music Composition](https://github.com/ghchen99/mcp-musescore), check it out!
+- 🔭 Currently developing [MCP Server for Music Composition](https://github.com/ghchen99/mcp-musescore), check it out!
   
 
 - 🌱 Expanding my expertise in scalable AI applications and software engineering best practices
