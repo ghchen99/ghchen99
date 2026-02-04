@@ -30,52 +30,42 @@
 ⚡ **Fun Fact:** I use tabs over spaces
 
 <br/>
-
-## 🛠️ Tech Stack
-
 <table align="center">
 <tr>
 <td valign="top" width="33%">
-
-### Frontend
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
-</div>
-
+  <div align="center">
+    <h3>Frontend</h3>
+    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
+  </div>
 </td>
+
 <td valign="top" width="33%">
-
-### Backend & AI/ML
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50"/>
-  <br/><br/>
-  <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50"/>
-</div>
-
+  <div align="center">
+    <h3>Backend</h3>
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50"/>
+  </div>
 </td>
+
 <td valign="top" width="33%">
-
-### DevOps & Cloud
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50"/>
-</div>
-
+  <div align="center">
+    <h3>DevOps</h3>
+    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50"/>
+  </div>
 </td>
 </tr>
 </table>
+
 
 <br/>
 
